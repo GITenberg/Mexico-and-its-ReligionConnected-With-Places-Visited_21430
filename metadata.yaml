@@ -1,0 +1,30 @@
+_repo: Mexico-and-its-ReligionConnected-With-Places-Visited_21430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Robert Anderson
+    birthdate: 1812
+    deathdate: 1872
+    gutenberg_agent_id: '9920'
+    url: http://www.gutenberg.org/2009/agents/9920
+description: ''
+gutenberg_issued: '2007-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21430'
+  lccn: 02004814
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Religion'
+- !lcsh 'Mexico -- Description and travel'
+- !lcc 'F1201'
+title: "Mexico and Its Religion\r\nWith Incidents of Travel in That Country During\
+  \ Parts of the Years 1851-52-53-54, and Historical Notices of Events Connected With\
+  \ Places Visited"
+url: http://www.gutenberg.org/ebooks/21430
